@@ -1,2 +1,2 @@
-# Linear-Regression
-## Creating a Simple Linear Regression data model using R
+# Machine-Learning Pipeline
+## Creating a ML pipeline to build and evaluate multiple models; using Python3
